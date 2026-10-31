@@ -53,3 +53,6 @@ et d'un bruit de 1 % :
 
 L'erreur est égale à $\sigma_{k+1}$ (Eckart–Young). Trois modes captent 99,9 % de l'énergie :
 c'est exactement le rang du champ sans bruit ; au-delà, les modes ne représentent plus que le bruit.
+
+Application à un vrai champ d'écoulement (modes POD et métamodèle paramétrique validé) :
+[pod-rom-lbm](https://github.com/H-HABCHANE/pod-rom-lbm).
